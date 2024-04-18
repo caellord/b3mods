@@ -3,7 +3,7 @@
 ### https://github.com/BLCM/bl3mods/wiki/Smaller%20HUD
 
 ### Remove this line below if you want crosshair back
-SparkPatchEntry,(1,2,0,),/Game/UI/HUD/UIData_HUDLayout_Character.UIData_HUDLayout_Character,crosshairContainer,Scale,0,,(x=80.0,y=80.0)
+SparkPatchEntry,(1,2,0,),/Game/UI/HUD/UIData_HUDLayout_Character.UIData_HUDLayout_Character,crosshairContainer,Scale,0,,(x=50.0,y=50.0)
 SparkPatchEntry,(1,2,0,),/Game/UI/HUD/UIData_HUDLayout_Character.UIData_HUDLayout_Character,reloadWidgetMC,Scale,0,,(x=5.0,y=5.0)
 SparkPatchEntry,(1,2,0,),/Game/UI/HUD/UIData_HUDLayout_Character.UIData_HUDLayout_Character,reloadWidgetMC,Offset,0,,(x=-1999.0,y=00.0)
 SparkPatchEntry,(1,2,0,),/Game/UI/HUD/UIData_HUDLayout_Character.UIData_HUDLayout_Character,xpBar,Scale,0,,(x=65.0,y=65.0)
